@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/IamGourabBiswas/DSA/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IamGourabBiswas/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/IamGourabBiswas/DSA/tree/master/0049-group-anagrams) |
 | [0443-string-compression](https://github.com/IamGourabBiswas/DSA/tree/master/0443-string-compression) |
 ## Hash Table
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/IamGourabBiswas/DSA/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/IamGourabBiswas/DSA/tree/master/0049-group-anagrams) |
 ## Math
 |  |
 | ------- |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/IamGourabBiswas/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/IamGourabBiswas/DSA/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/IamGourabBiswas/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
@@ -40,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/IamGourabBiswas/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/IamGourabBiswas/DSA/tree/master/0075-sort-colors) |
 ## String Matching
 |  |
