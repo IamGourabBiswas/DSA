@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/IamGourabBiswas/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/IamGourabBiswas/DSA/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/IamGourabBiswas/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0647-palindromic-substrings](https://github.com/IamGourabBiswas/DSA/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/IamGourabBiswas/DSA/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/IamGourabBiswas/DSA/tree/master/0680-valid-palindrome-ii) |
 ## String
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/IamGourabBiswas/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/IamGourabBiswas/DSA/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/IamGourabBiswas/DSA/tree/master/0539-minimum-time-difference) |
+| [0647-palindromic-substrings](https://github.com/IamGourabBiswas/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/IamGourabBiswas/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/IamGourabBiswas/DSA/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/IamGourabBiswas/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/IamGourabBiswas/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/IamGourabBiswas/DSA/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
