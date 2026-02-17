@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/IamGourabBiswas/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/IamGourabBiswas/DSA/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/IamGourabBiswas/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/IamGourabBiswas/DSA/tree/master/0658-find-k-closest-elements) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/IamGourabBiswas/DSA/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/IamGourabBiswas/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/IamGourabBiswas/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/IamGourabBiswas/DSA/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/IamGourabBiswas/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/IamGourabBiswas/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/IamGourabBiswas/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/IamGourabBiswas/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/IamGourabBiswas/DSA/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/IamGourabBiswas/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/IamGourabBiswas/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/IamGourabBiswas/DSA/tree/master/0075-sort-colors) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/IamGourabBiswas/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/IamGourabBiswas/DSA/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/IamGourabBiswas/DSA/tree/master/0767-reorganize-string) |
 ## String Matching
 |  |
@@ -74,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/IamGourabBiswas/DSA/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/IamGourabBiswas/DSA/tree/master/0767-reorganize-string) |
 ## Counting
 |  |
@@ -83,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/IamGourabBiswas/DSA/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/IamGourabBiswas/DSA/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
