@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/IamGourabBiswas/DSA/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/IamGourabBiswas/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/IamGourabBiswas/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/IamGourabBiswas/DSA/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/IamGourabBiswas/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/IamGourabBiswas/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/IamGourabBiswas/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/IamGourabBiswas/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
