@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/IamGourabBiswas/DSA/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/IamGourabBiswas/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/IamGourabBiswas/DSA/tree/master/0443-string-compression) |
+| [0539-minimum-time-difference](https://github.com/IamGourabBiswas/DSA/tree/master/0539-minimum-time-difference) |
 | [0680-valid-palindrome-ii](https://github.com/IamGourabBiswas/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/IamGourabBiswas/DSA/tree/master/0767-reorganize-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/IamGourabBiswas/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/IamGourabBiswas/DSA/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/IamGourabBiswas/DSA/tree/master/0012-integer-to-roman) |
+| [0539-minimum-time-difference](https://github.com/IamGourabBiswas/DSA/tree/master/0539-minimum-time-difference) |
 | [2469-convert-the-temperature](https://github.com/IamGourabBiswas/DSA/tree/master/2469-convert-the-temperature) |
 ## Array
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/IamGourabBiswas/DSA/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/IamGourabBiswas/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/IamGourabBiswas/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/IamGourabBiswas/DSA/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/IamGourabBiswas/DSA/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/IamGourabBiswas/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/IamGourabBiswas/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/IamGourabBiswas/DSA/tree/master/0075-sort-colors) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/IamGourabBiswas/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0539-minimum-time-difference](https://github.com/IamGourabBiswas/DSA/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/IamGourabBiswas/DSA/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/IamGourabBiswas/DSA/tree/master/0767-reorganize-string) |
 ## String Matching
