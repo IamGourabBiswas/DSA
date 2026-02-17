@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/IamGourabBiswas/DSA/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/IamGourabBiswas/DSA/tree/master/0012-integer-to-roman) |
 | [2469-convert-the-temperature](https://github.com/IamGourabBiswas/DSA/tree/master/2469-convert-the-temperature) |
 ## Array
