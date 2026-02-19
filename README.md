@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/IamGourabBiswas/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IamGourabBiswas/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/IamGourabBiswas/DSA/tree/master/0049-group-anagrams) |
+| [0179-largest-number](https://github.com/IamGourabBiswas/DSA/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/IamGourabBiswas/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/IamGourabBiswas/DSA/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/IamGourabBiswas/DSA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/IamGourabBiswas/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/IamGourabBiswas/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/IamGourabBiswas/DSA/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/IamGourabBiswas/DSA/tree/master/0179-largest-number) |
 | [0287-find-the-duplicate-number](https://github.com/IamGourabBiswas/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/IamGourabBiswas/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/IamGourabBiswas/DSA/tree/master/0539-minimum-time-difference) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/IamGourabBiswas/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/IamGourabBiswas/DSA/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/IamGourabBiswas/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/IamGourabBiswas/DSA/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/IamGourabBiswas/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/IamGourabBiswas/DSA/tree/master/0539-minimum-time-difference) |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/IamGourabBiswas/DSA/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/IamGourabBiswas/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/IamGourabBiswas/DSA/tree/master/0767-reorganize-string) |
 ## Heap (Priority Queue)
