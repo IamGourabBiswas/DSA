@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IamGourabBiswas/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/IamGourabBiswas/DSA/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/IamGourabBiswas/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -15,8 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/IamGourabBiswas/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/IamGourabBiswas/DSA/tree/master/0917-reverse-only-letters) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/IamGourabBiswas/DSA/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/IamGourabBiswas/DSA/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/IamGourabBiswas/DSA/tree/master/0014-longest-common-prefix) |
@@ -35,8 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/IamGourabBiswas/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/IamGourabBiswas/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/IamGourabBiswas/DSA/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/IamGourabBiswas/DSA/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/IamGourabBiswas/DSA/tree/master/0049-group-anagrams) |
@@ -45,16 +45,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/IamGourabBiswas/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0767-reorganize-string](https://github.com/IamGourabBiswas/DSA/tree/master/0767-reorganize-string) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0007-reverse-integer](https://github.com/IamGourabBiswas/DSA/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/IamGourabBiswas/DSA/tree/master/0012-integer-to-roman) |
 | [0204-count-primes](https://github.com/IamGourabBiswas/DSA/tree/master/0204-count-primes) |
 | [0539-minimum-time-difference](https://github.com/IamGourabBiswas/DSA/tree/master/0539-minimum-time-difference) |
 | [2469-convert-the-temperature](https://github.com/IamGourabBiswas/DSA/tree/master/2469-convert-the-temperature) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/IamGourabBiswas/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/IamGourabBiswas/DSA/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/IamGourabBiswas/DSA/tree/master/0033-search-in-rotated-sorted-array) |
@@ -68,20 +68,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/IamGourabBiswas/DSA/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/IamGourabBiswas/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/IamGourabBiswas/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/IamGourabBiswas/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/IamGourabBiswas/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/IamGourabBiswas/DSA/tree/master/0658-find-k-closest-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/IamGourabBiswas/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/IamGourabBiswas/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0049-group-anagrams](https://github.com/IamGourabBiswas/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/IamGourabBiswas/DSA/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/IamGourabBiswas/DSA/tree/master/0179-largest-number) |
@@ -91,51 +91,51 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/IamGourabBiswas/DSA/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/IamGourabBiswas/DSA/tree/master/0767-reorganize-string) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/IamGourabBiswas/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0179-largest-number](https://github.com/IamGourabBiswas/DSA/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/IamGourabBiswas/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/IamGourabBiswas/DSA/tree/master/0767-reorganize-string) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/IamGourabBiswas/DSA/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/IamGourabBiswas/DSA/tree/master/0767-reorganize-string) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0767-reorganize-string](https://github.com/IamGourabBiswas/DSA/tree/master/0767-reorganize-string) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/IamGourabBiswas/DSA/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/IamGourabBiswas/DSA/tree/master/0658-find-k-closest-elements) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/IamGourabBiswas/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/IamGourabBiswas/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/IamGourabBiswas/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0647-palindromic-substrings](https://github.com/IamGourabBiswas/DSA/tree/master/0647-palindromic-substrings) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/IamGourabBiswas/DSA/tree/master/0204-count-primes) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/IamGourabBiswas/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
