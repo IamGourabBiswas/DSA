@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/IamGourabBiswas/DSA/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/IamGourabBiswas/DSA/tree/master/0012-integer-to-roman) |
+| [0204-count-primes](https://github.com/IamGourabBiswas/DSA/tree/master/0204-count-primes) |
 | [0539-minimum-time-difference](https://github.com/IamGourabBiswas/DSA/tree/master/0539-minimum-time-difference) |
 | [2469-convert-the-temperature](https://github.com/IamGourabBiswas/DSA/tree/master/2469-convert-the-temperature) |
 ## Array
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/IamGourabBiswas/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/IamGourabBiswas/DSA/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/IamGourabBiswas/DSA/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/IamGourabBiswas/DSA/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/IamGourabBiswas/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/IamGourabBiswas/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/IamGourabBiswas/DSA/tree/master/0539-minimum-time-difference) |
@@ -128,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/IamGourabBiswas/DSA/tree/master/0647-palindromic-substrings) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/IamGourabBiswas/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/IamGourabBiswas/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
